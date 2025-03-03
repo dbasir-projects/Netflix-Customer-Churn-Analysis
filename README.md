@@ -5,22 +5,22 @@ This Power BI report analyzes Netflix customer churn, providing insights into fa
 ## Dataset
 The dataset includes the following key columns:
 
-Customer ID: Unique customer identifier.
-Subscription Length (Months): Duration of the subscription.
-Customer Satisfaction Score (1-10): Customer satisfaction rating.
-Daily Watch Time (Hours): Average daily watch time.
-Engagement Rate (1-10): Customer engagement rating.
-Device Used Most Often: The device the customer uses most.
-Genre Preference: Preferred genres.
-Region: Customer's location.
-Payment History (On-Time/Delayed): Payment history.
-Subscription Plan: Type of subscription (Basic, Standard, Premium).
-Churn Status (Yes/No): Whether the customer has churned.
-Support Queries Logged: Number of support queries logged.
-Age: Customer age.
-Monthly Income ($): Monthly income of the customer.
-Promotional Offers Used: Whether promotional offers were used.
-Number of Profiles Created: Number of profiles associated with the account.
+- **Customer ID**: Unique customer identifier
+- **Subscription Length (Months)**: Duration of the subscription
+- **Customer Satisfaction Score (1-10)**: Customer satisfaction rating
+- **Daily Watch Time (Hours)**: Average daily watch time
+- **Engagement Rate (1-10)**: Customer engagement rating
+- **Device Used Most Often**: The device the customer uses most
+- **Genre Preference**: Preferred genres
+- **Region**: Customer's location
+- **Payment History (On-Time/Delayed)**: Payment history
+- **Subscription Plan**: Type of subscription (Basic, Standard, Premium)
+- **Churn Status (Yes/No)**: Whether the customer has churned
+- **Support Queries Logged**: Number of support queries logged
+- **Age**: Customer age
+- **Monthly Income ($)**: Monthly income of the customer
+- **Promotional Offers Used**: Whether promotional offers were used
+- **Number of Profiles Created**: Number of profiles associated with the account
 
 ## Key Insights
 The report focuses on these areas:
